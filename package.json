@@ -1,7 +1,7 @@
 {
   "name": "twitter-streaming-node",
   "version": "0.0.1",
-  "author": "stewartatsafe",
+  "author": "failsafe",
   "private": true,
   "scripts": {
     "start": "node app"
